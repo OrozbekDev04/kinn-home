@@ -185,7 +185,8 @@ line-height: 81px;
         color: #56593D;
         font-size: 24px;
         font-weight: 400;
-        /*text-align: center;*/
+        padding-top: 63px;
+        padding-bottom: 79px;
     }
 }
 
