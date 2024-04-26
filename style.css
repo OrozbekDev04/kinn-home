@@ -57,7 +57,7 @@ button{
         letter-spacing: 1px;
         display: flex;
         align-items: center;
-        gap: 3px;
+        gap: 10px;
         text-transform:uppercase;
     }
 }
